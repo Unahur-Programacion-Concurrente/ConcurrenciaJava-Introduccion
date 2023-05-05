@@ -25,9 +25,15 @@ public class UsandoHilos {
         t1.start();
         t2.start();
 
+        Thread tA = new Thread(() -> System.out.println('A'), "hiloA");
+        Thread tB = new Thread(HiloConLambda::printB, "hiloB");
+
+        tA.start();
+        tB.start();
 
         System.out.println("Fin del hilo principal");
     }
+
 
 }
 
