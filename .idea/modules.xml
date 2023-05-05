@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Concurrencia/Concurrencia.iml" filepath="$PROJECT_DIR$/Concurrencia/Concurrencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConcurrenciaJava-Introduccion.iml" filepath="$PROJECT_DIR$/ConcurrenciaJava-Introduccion.iml" />
+    </modules>
+  </component>
+</project>
